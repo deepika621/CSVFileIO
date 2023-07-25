@@ -1,0 +1,16 @@
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.exe
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.deps.json
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.runtimeconfig.json
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.runtimeconfig.dev.json
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.dll
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CSVFileIO.pdb
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.csproj.AssemblyReference.cache
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.AssemblyInfoInputs.cache
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.AssemblyInfo.cs
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.csproj.CoreCompileInputs.cache
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.csproj.CopyComplete
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.dll
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.pdb
+C:\Users\deepi\source\repos\CSVFileIO\CSVFileIO\obj\Debug\netcoreapp3.1\CSVFileIO.genruntimeconfig.cache
